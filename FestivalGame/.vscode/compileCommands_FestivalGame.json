@@ -22,5 +22,37 @@
 			"@C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\.vscode\\compileCommands_FestivalGame\\FestivalGame.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\Source\\FestivalGame\\GameManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\.vscode\\compileCommands_FestivalGame\\FestivalGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\Source\\FestivalGame\\GameManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\.vscode\\compileCommands_FestivalGame\\FestivalGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\Source\\FestivalGame\\TargetMover.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\.vscode\\compileCommands_FestivalGame\\FestivalGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\Source\\FestivalGame\\TargetMover.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\hcalv\\Learning\\UnrealGame\\FestivalGame\\.vscode\\compileCommands_FestivalGame\\FestivalGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	}
 ]
