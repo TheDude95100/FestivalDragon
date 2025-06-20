@@ -17,8 +17,8 @@ body:
       label: List of subtasks
       description: Details the necessary steps (one per line)
       placeholder: |
-        - Implement the button
-        - Add event handler
-        - Local testing
+        - [ ] Implement the button
+        - [ ] Add event handler
+        - [ ] Local testing
     validations:
       required: true
