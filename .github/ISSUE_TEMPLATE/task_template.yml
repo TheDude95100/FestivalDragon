@@ -1,0 +1,23 @@
+name: 📋 Standard task
+description: Creates a task with DoD and subtasks
+body:
+  - type: textarea
+    id: dod
+    attributes:
+      label: Definition of Done (DoD)
+      description: Indicates the criteria for the task to be considered complete
+      placeholder: For example: “The user can click on the button and receive a confirmation message”.
+    validations:
+      required: true
+
+  - type: textarea
+    id: checklist
+    attributes:
+      label: List of subtasks
+      description: Details the necessary steps (one per line)
+      placeholder: |
+        - Implement the button
+        - Add event handler
+        - Local testing
+    validations:
+      required: true
