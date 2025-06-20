@@ -15,7 +15,7 @@ body:
     id: checklist
     attributes:
       label: List of subtasks
-      description: Details the necessary steps (one per line)
+      description: List each subtask on a new line, starting with `- [ ]` so they appear as checkboxes.
       placeholder: |
         - [ ] Implement the button
         - [ ] Add event handler
