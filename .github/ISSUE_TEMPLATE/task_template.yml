@@ -6,7 +6,7 @@ body:
     attributes:
       label: Definition of Done (DoD)
       description: "Indicates the criteria for the task to be considered complete"
-      placeholder: For example: “The user can click on the button and receive a confirmation message”.
+      placeholder: For example: "The user can click on the button and receive a confirmation message".
     validations:
       required: true
 
