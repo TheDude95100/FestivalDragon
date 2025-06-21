@@ -12,4 +12,9 @@ enum class EGameState : uint8
 {
    	Festival        UMETA(DisplayName = "Festival"),
     ShootingRange   UMETA(DisplayName = "Shooting Range"),
+    RhythmGame      UMETA(DisplayName = "Rhythm Game"),
+    AppleBobbing    UMETA(DisplayName = "AppleBobbing"),
+    MemoryGame      UMETA(DisplayName = "Memory Game"),
+    WhackAMonkey  UMETA(DisplayName = "Whack-A-Monkey"),
+    ButtonMash      UMETA(DisplayName = "ButtonMash"),
 };
