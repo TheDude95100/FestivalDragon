@@ -3,26 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Actor.h"
+#include "Types/EGameState.h"
+#include "Types/FCameraSetup.h"
 #include "GameManager.generated.h"
 
-UENUM(BlueprintType)
-enum class EGameState : uint8
-{
-   	Festival        UMETA(DisplayName = "Festival"),
-    ShootingRange   UMETA(DisplayName = "Shooting Range"),
-    // Ajoute les autres mini-jeux ici
-};
-USTRUCT(BlueprintType)
-struct FCameraSetup{
-	GENERATED_BODY()
 
-	UPROPERTY(EditAnywhere, Category="Camera")
-	EGameState GameState;
-
-	UPROPERTY(EditAnywhere, Category="Camera")
-	AActor* CameraActor;
-};
 UCLASS()
 class FESTIVALGAME_API AGameManager : public AActor
 {

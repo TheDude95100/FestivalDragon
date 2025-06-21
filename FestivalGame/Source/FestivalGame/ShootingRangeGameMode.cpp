@@ -6,6 +6,6 @@
 
 AShootingRangeGameMode::AShootingRangeGameMode()
 {
-	DefaultPawnClass = nullptr; // Pas de pawn, juste la caméra qu’on contrôle manuellement
-	PlayerControllerClass = AShootingRangePlayerController::StaticClass(); // Celui par défaut suffit
+	DefaultPawnClass = nullptr;
+	PlayerControllerClass = AShootingRangePlayerController::StaticClass();
 }
